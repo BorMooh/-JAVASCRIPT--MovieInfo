@@ -34,3 +34,16 @@ body{
     font-size: 48px;
     font-family: nunito;;
 }
+
+.data-table, td {
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 2px solid white;
+}
+
+td{
+    max-width: 300px;
+}
